@@ -6,7 +6,7 @@
         "SITE": "Port Moresby",
         "DISTANCE": 0,
         "MIN": 0,
-        "MAX": 0,
-        "RTT": 0
+        "AVG": 0,
+        "MAX": 0
     }
 ]
