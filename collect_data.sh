@@ -71,15 +71,29 @@ capture_value() {
 
 echo '[' > $output_file
 
+declare -i cnt=0
+echo "Running ping test on ip/hosts"
 while read line; do
-    # TODO
-    # -check if line contains IP/HOST, CONTINENT, COUNTRY, SITE and update var
-    # run print_ip_data if line contains '}'
-    # print count to show program running during iteration
-done < $input_file
+    if [[ $(echo $line | grep -P 'IP\/HOST') ]]; then
+        ip_host=$(capture_value "$line")
+    elif [[ $(echo $line | grep -P 'CONTINENT') ]]; then
+        continent=$(capture_value "$line")
+    elif [[ $(echo $line | grep -P 'COUNTRY') ]]; then
+        country=$(capture_value "$line")
+    elif [[ $(echo $line | grep -P 'SITE') ]]; then
+        site=$(capture_value "$line")
+    fi
 
-print_ip_data $test_host $test_continent $test_country $test_site
+    # run print_ip_data if line contains '}' (arbitarily chosen line to print data on)
+    if [[ $(echo $line | grep -P '}') ]]; then
+        print_ip_data $ip_host $continent $country $site
+        echo $cnt # show count for current ip being analyzed
+        cnt+=1
+    fi
+done < $input_file
 
 sed -i '$d' $output_file # used to delete the comma on last object, to preseve the json format
 echo -e "\t}" >> $output_file
 echo ']' >> $output_file
+
+echo "Finished"
