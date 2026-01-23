@@ -3,14 +3,15 @@
 input_file=$1
 output_file=$2
 
-iterations=1
+iterations=100
+interval=0.01
 
 ## testing
-test_ip='160.242.19.254' 
-test_host='chch.linetest.nz'
-test_continent="Oceania"
-test_country="PG"
-test_site="Port Moresby"
+#test_ip_host='ping6-90ms.online.net' 
+#test_host='chch.linetest.nz'
+#test_continent="Oceania"
+#test_country="PG"
+#test_site="Port Moresby"
 
 
 ### Functions
@@ -20,16 +21,31 @@ test_site="Port Moresby"
 print_ping_data() {
     ip=$1
 
-    vals=$(ping -c $iterations $ip | grep -Po '(\d+\.\d+)\/')
+    vals=$(ping -c $iterations -i $interval $ip)
 
-    min=$(echo $vals | awk '{print $1}')
-    min=${min::-1}
+    if [[ $(echo $vals | grep -P '100% packet loss') ]]; then # packets never returned from ping command, set values to -1
+        echo $vals
+        min=-1
+        avg=-1
+        max=-1
+    elif [[ -z $vals ]]; then # Network is unreachable, no stdout text
+        echo $vals
+        min=-1
+        avg=-1
+        max=-1
+    else
+        vals=$(echo $vals | grep -Po '(\d+\.\d+)\/')
+
+        min=$(echo $vals | awk '{print $1}')
+        min=${min::-1}
+        avg=$(echo $vals | awk '{print $2}')
+        avg=${avg::-1}
+        max=$(echo $vals | awk '{print $3}')
+        max=${max::-1}
+    fi
+
     echo -e "\t\t\"MIN\": $min," >> $output_file
-    avg=$(echo $vals | awk '{print $2}')
-    avg=${avg::-1}
     echo -e "\t\t\"AVG\": $avg," >> $output_file
-    max=$(echo $vals | awk '{print $3}')
-    max=${max::-1}
     echo -e "\t\t\"MAX\": $max" >> $output_file
 }
 
@@ -70,6 +86,9 @@ capture_value() {
 ### Iterate and execute on all ip/hosts in $input_file
 
 echo '[' > $output_file
+
+#print_ip_data $test_ip_host $test_continent $test_country $test_site
+#exit 0
 
 declare -i cnt=0
 echo "Running ping test on ip/hosts"
