@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# run as ./collect_data.sh [input_file.json] [output_file.json]
+
 input_file=$1
 output_file=$2
 
