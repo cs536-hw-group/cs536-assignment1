@@ -29,8 +29,8 @@ for d in distances:
 
     ping = ping_by_ip[ip]
 
-    if ping["AVG"] == -1:
-        continue
+    # if ping["AVG"] == -1:
+    #     continue
 
     distance = float(d["DISTANCE (MI)"])
     avg_ping = ping["AVG"]
@@ -39,10 +39,6 @@ for d in distances:
     y.append(avg_ping)
 
 #creates the scatter plot
-# x = [d["DISTANCE (MI)"] for d in distances]
-# print(len(x))
-# y = [p["AVG"] for p in pings]
-# print(len(y))
 plt.scatter(x,y)
 plt.xlabel("Distance")
 plt.ylabel("RTT")
