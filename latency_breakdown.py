@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 
 # Function selects servers from server list file
-def get_servers_by_index(filename="ips_with_distance.json", indices=None):
+def get_servers_by_index(filename="listed_iperf3_servers.json", indices=None):
     try:
         with open(filename, 'r') as f:
             data = json.load(f)
