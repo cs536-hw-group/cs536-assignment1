@@ -1735,5 +1735,14 @@
 		"MIN": 237.628,
 		"AVG": 239.769,
 		"MAX": 248.167
+	},
+	{
+		"IP/HOST": "127.0.0.1",
+		"CONTINENT": "North",
+		"COUNTRY": "America",
+		"SITE": "US",
+		"MIN": 0,
+		"AVG": 0,
+		"MAX": 0
 	}
 ]

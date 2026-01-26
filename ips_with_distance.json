@@ -2314,5 +2314,17 @@
         "LONGITUDE": "147.18",
         "LATITUDE": "-9.43529",
         "DISTANCE (MI)": "8508.140778892553"
+    },
+    {
+        "IP/HOST": "127.0.0.1",
+        "PORT": "",
+        "GB/S": "",
+        "CONTINENT": "North",
+        "COUNTRY": "America",
+        "SITE": "US",
+        "PROVIDER": "DATAPACKET",
+        "LONGITUDE": "40.42795",
+        "LATITUDE": "-86.91696",
+        "DISTANCE (MI)": "0"
     }
 ]
