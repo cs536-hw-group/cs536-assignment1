@@ -29,8 +29,9 @@ for d in distances:
 
     ping = ping_by_ip[ip]
 
-    # if ping["AVG"] == -1:
-    #     continue
+    #filters out non-responsive IP addresses
+    if ping["AVG"] == -1:
+        continue
 
     distance = float(d["DISTANCE (MI)"])
     avg_ping = ping["AVG"]
