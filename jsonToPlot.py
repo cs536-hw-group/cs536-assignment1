@@ -1,49 +1,61 @@
 import json
+import sys
 import matplotlib.pyplot as plt
 
-#This loads the bash-created json file for the different pings
-pings = json.load(open('ping_output.json', 'r'))
+def main():
+    #This takes in the two json files as command line arguments
+    if len(sys.argv) < 3:
+        print(f"usage: {sys.argv[0]} MESSAGE", file=sys.stderr)
+        sys.exit(-1)
+    ping_json = sys.argv[1]
+    distance_json = sys.argv[2]
 
-#This will load the distances from the distance json
-distances = json.load(open('ips_with_distance.json', 'r'))
+    #This loads the bash-created json file for the different pings
+    pings = json.load(open(ping_json, 'r'))
 
-#shows a grid on the graph
-plt.grid(True)
+    #This will load the distances from the distance json
+    distances = json.load(open(distance_json, 'r'))
 
-#filters by ip/host
-ping_by_ip = {
-    p["IP/HOST"]: p
-    for p in pings
+    #shows a grid on the graph
+    plt.grid(True)
 
-}
+    #filters by ip/host
+    ping_by_ip = {
+        p["IP/HOST"]: p
+        for p in pings
 
-#joins the 2 jsons together to filter
-x = []
-y = []
+    }
 
-for d in distances:
-    ip = d["IP/HOST"]
+    #joins the 2 jsons together to filter
+    x = []
+    y = []
 
-    if ip not in ping_by_ip:
-        continue
+    for d in distances:
+        ip = d["IP/HOST"]
 
-    ping = ping_by_ip[ip]
+        if ip not in ping_by_ip:
+            continue
 
-    #filters out non-responsive IP addresses
-    if ping["AVG"] == -1:
-        continue
+        ping = ping_by_ip[ip]
 
-    distance = float(d["DISTANCE (MI)"])
-    avg_ping = ping["AVG"]
+        #filters out non-responsive IP addresses
+        if ping["AVG"] == -1:
+            continue
 
-    x.append(distance)
-    y.append(avg_ping)
+        distance = float(d["DISTANCE (MI)"])
+        avg_ping = ping["AVG"]
 
-#creates the scatter plot
-plt.scatter(x,y)
-plt.xlabel("Distance")
-plt.ylabel("RTT")
-plt.title("Distance v. RTT Scatter Plot")
+        x.append(distance)
+        y.append(avg_ping)
 
-plt.savefig('Distance_RTT_Scatter.pdf')
-plt.show()
+    #creates the scatter plot
+    plt.scatter(x,y)
+    plt.xlabel("Distance")
+    plt.ylabel("RTT")
+    plt.title("Distance v. RTT Scatter Plot")
+
+    plt.savefig('Distance_RTT_Scatter.pdf')
+    plt.show()
+
+if __name__ == '__main__':
+    main()
