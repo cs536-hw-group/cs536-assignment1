@@ -42,7 +42,7 @@ def main():
         if ping["AVG"] == -1:
             continue
 
-        distance = float(d["DISTANCE (MI)"])
+        distance = float(d["DISTNACE"])
         avg_ping = ping["AVG"]
 
         x.append(distance)

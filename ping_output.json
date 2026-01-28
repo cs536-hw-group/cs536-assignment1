@@ -4,189 +4,189 @@
 		"CONTINENT": "Africa",
 		"COUNTRY": "AO",
 		"SITE": "Luanda",
-		"MIN": 229.886,
-		"AVG": 232.134,
-		"MAX": 251.535
+		"MIN": 218.981,
+		"AVG": 221.588,
+		"MAX": 228.777
 	},
 	{
 		"IP/HOST": "41.110.39.130",
 		"CONTINENT": "Africa",
 		"COUNTRY": "DZ",
 		"SITE": "Algiers",
-		"MIN": 139.815,
-		"AVG": 142.476,
-		"MAX": 152.736
+		"MIN": 140.771,
+		"AVG": 144.634,
+		"MAX": 157.100
 	},
 	{
 		"IP/HOST": "213.158.175.240",
 		"CONTINENT": "Africa",
 		"COUNTRY": "EG",
 		"SITE": "Cairo",
-		"MIN": 141.820,
-		"AVG": 144.152,
-		"MAX": 154.742
+		"MIN": 150.003,
+		"AVG": 152.405,
+		"MAX": 158.191
 	},
 	{
 		"IP/HOST": "102.214.66.39",
 		"CONTINENT": "Africa",
 		"COUNTRY": "GH",
 		"SITE": "Accra",
-		"MIN": 178.096,
-		"AVG": 180.910,
-		"MAX": 193.412
+		"MIN": 204.584,
+		"AVG": 207.155,
+		"MAX": 218.843
 	},
 	{
 		"IP/HOST": "102.214.66.19",
 		"CONTINENT": "Africa",
 		"COUNTRY": "GH",
 		"SITE": "Accra",
-		"MIN": 199.473,
-		"AVG": 201.899,
-		"MAX": 213.669
+		"MIN": 214.403,
+		"AVG": 216.670,
+		"MAX": 222.158
 	},
 	{
 		"IP/HOST": "212.60.92.134",
 		"CONTINENT": "Africa",
 		"COUNTRY": "GM",
 		"SITE": "Banjul",
-		"MIN": 162.935,
-		"AVG": 166.955,
-		"MAX": 216.722
+		"MIN": 178.207,
+		"AVG": 180.808,
+		"MAX": 191.725
 	},
 	{
 		"IP/HOST": "105.235.237.2",
 		"CONTINENT": "Africa",
 		"COUNTRY": "GQ",
 		"SITE": "Bata",
-		"MIN": 228.052,
-		"AVG": 230.429,
-		"MAX": 240.816
+		"MIN": 280.760,
+		"AVG": 283.433,
+		"MAX": 296.587
 	},
 	{
 		"IP/HOST": "speed.mymanga.pro",
 		"CONTINENT": "Africa",
 		"COUNTRY": "KE",
 		"SITE": "Nairobi",
-		"MIN": 270.076,
-		"AVG": 281.764,
-		"MAX": 382.649
+		"MIN": 321.682,
+		"AVG": 324.125,
+		"MAX": 333.274
 	},
 	{
 		"IP/HOST": "speedtestfl.telecom.mu",
 		"CONTINENT": "Africa",
 		"COUNTRY": "MU",
 		"SITE": "Floreal",
-		"MIN": 312.195,
-		"AVG": 314.410,
-		"MAX": 327.582
+		"MIN": 310.357,
+		"AVG": 312.789,
+		"MAX": 321.451
 	},
 	{
 		"IP/HOST": "speedtest.telecom.mu",
 		"CONTINENT": "Africa",
 		"COUNTRY": "MU",
 		"SITE": "Port",
-		"MIN": 356.321,
-		"AVG": 358.546,
-		"MAX": 367.144
+		"MIN": 347.461,
+		"AVG": 349.082,
+		"MAX": 359.861
 	},
 	{
 		"IP/HOST": "41.226.22.119",
 		"CONTINENT": "Africa",
 		"COUNTRY": "TN",
 		"SITE": "Tunis",
-		"MIN": 135.647,
-		"AVG": 138.315,
-		"MAX": 158.726
+		"MIN": 159.665,
+		"AVG": 167.046,
+		"MAX": 239.880
 	},
 	{
 		"IP/HOST": "41.210.185.162",
 		"CONTINENT": "Africa",
 		"COUNTRY": "UG",
 		"SITE": "Kampala",
-		"MIN": 278.074,
-		"AVG": 280.469,
-		"MAX": 290.122
+		"MIN": 291.612,
+		"AVG": 304.336,
+		"MAX": 357.052
 	},
 	{
 		"IP/HOST": "169.150.238.161",
 		"CONTINENT": "Africa",
 		"COUNTRY": "ZA",
 		"SITE": "Johannesburg",
-		"MIN": 257.593,
-		"AVG": 260.285,
-		"MAX": 279.672
+		"MIN": 287.231,
+		"AVG": 297.843,
+		"MAX": 337.792
 	},
 	{
 		"IP/HOST": "69.48.239.124",
 		"CONTINENT": "Africa",
 		"COUNTRY": "ZA",
 		"SITE": "Johannesburg",
-		"MIN": 252.992,
-		"AVG": 254.957,
-		"MAX": 271.162
+		"MIN": 272.239,
+		"AVG": 289.488,
+		"MAX": 332.753
 	},
 	{
 		"IP/HOST": "86.96.154.106",
 		"CONTINENT": "Asia",
 		"COUNTRY": "AE",
 		"SITE": "Dubai",
-		"MIN": 218.168,
-		"AVG": 223.589,
-		"MAX": 260.162
+		"MIN": 215.908,
+		"AVG": 231.566,
+		"MAX": 279.064
 	},
 	{
 		"IP/HOST": "23.249.55.42",
 		"CONTINENT": "Asia",
 		"COUNTRY": "AE",
 		"SITE": "Dubai",
-		"MIN": 210.633,
-		"AVG": 213.470,
-		"MAX": 241.263
+		"MIN": 203.709,
+		"AVG": 205.702,
+		"MAX": 216.514
 	},
 	{
 		"IP/HOST": "69.48.238.200",
 		"CONTINENT": "Asia",
 		"COUNTRY": "AE",
 		"SITE": "Dubai",
-		"MIN": 207.365,
-		"AVG": 209.301,
-		"MAX": 217.596
+		"MIN": 221.505,
+		"AVG": 223.287,
+		"MAX": 229.736
 	},
 	{
 		"IP/HOST": "84.17.57.129",
 		"CONTINENT": "Asia",
 		"COUNTRY": "HK",
 		"SITE": "Hong",
-		"MIN": 226.739,
-		"AVG": 229.154,
-		"MAX": 242.331
+		"MIN": 220.752,
+		"AVG": 222.483,
+		"MAX": 230.219
 	},
 	{
 		"IP/HOST": "23.249.58.14",
 		"CONTINENT": "Asia",
 		"COUNTRY": "HK",
 		"SITE": "Hong",
-		"MIN": 361.519,
-		"AVG": 382.642,
-		"MAX": 400.312
+		"MIN": 220.979,
+		"AVG": 223.727,
+		"MAX": 240.771
 	},
 	{
 		"IP/HOST": "speedtest.hkg12.hk.leaseweb.net",
 		"CONTINENT": "Asia",
 		"COUNTRY": "HK",
 		"SITE": "Hong",
-		"MIN": 228.426,
-		"AVG": 230.571,
-		"MAX": 241.488
+		"MIN": 215.513,
+		"AVG": 217.365,
+		"MAX": 223.948
 	},
 	{
 		"IP/HOST": "iperf.scbd.net.id",
 		"CONTINENT": "Asia",
 		"COUNTRY": "ID",
 		"SITE": "Curug",
-		"MIN": 238.283,
-		"AVG": 241.056,
-		"MAX": 251.322
+		"MIN": 248.918,
+		"AVG": 250.949,
+		"MAX": 260.055
 	},
 	{
 		"IP/HOST": "103.185.255.183",
@@ -202,9 +202,9 @@
 		"CONTINENT": "Asia",
 		"COUNTRY": "IL",
 		"SITE": "Tel",
-		"MIN": 151.457,
-		"AVG": 153.955,
-		"MAX": 168.433
+		"MIN": 168.933,
+		"AVG": 174.156,
+		"MAX": 179.315
 	},
 	{
 		"IP/HOST": "speed.netfiber.net.il",
@@ -229,477 +229,477 @@
 		"CONTINENT": "Asia",
 		"COUNTRY": "IN",
 		"SITE": "Bangalore",
-		"MIN": 252.182,
-		"AVG": 254.644,
-		"MAX": 266.305
+		"MIN": 253.180,
+		"AVG": 254.514,
+		"MAX": 260.988
 	},
 	{
 		"IP/HOST": "69.48.236.198",
 		"CONTINENT": "Asia",
 		"COUNTRY": "IN",
 		"SITE": "Pune",
-		"MIN": 253.760,
-		"AVG": 256.949,
-		"MAX": 267.159
+		"MIN": 240.227,
+		"AVG": 241.670,
+		"MAX": 247.992
 	},
 	{
 		"IP/HOST": "89.187.160.1",
 		"CONTINENT": "Asia",
 		"COUNTRY": "JP",
 		"SITE": "Tokyo",
-		"MIN": 156.975,
-		"AVG": 159.626,
-		"MAX": 169.869
+		"MIN": 172.278,
+		"AVG": 173.891,
+		"MAX": 179.574
 	},
 	{
 		"IP/HOST": "23.249.60.154",
 		"CONTINENT": "Asia",
 		"COUNTRY": "JP",
 		"SITE": "Komagome",
-		"MIN": 130.423,
-		"AVG": 133.739,
-		"MAX": 143.506
+		"MIN": 151.782,
+		"AVG": 156.973,
+		"MAX": 167.074
 	},
 	{
 		"IP/HOST": "66.35.31.81",
 		"CONTINENT": "Asia",
 		"COUNTRY": "JP",
 		"SITE": "Tokyo",
-		"MIN": 132.639,
-		"AVG": 135.830,
-		"MAX": 145.147
+		"MIN": 153.034,
+		"AVG": 154.904,
+		"MAX": 159.661
 	},
 	{
 		"IP/HOST": "speedtest.tyo11.jp.leaseweb.net",
 		"CONTINENT": "Asia",
 		"COUNTRY": "JP",
 		"SITE": "Tokyo",
-		"MIN": 166.865,
-		"AVG": 169.699,
-		"MAX": 178.783
+		"MIN": 182.294,
+		"AVG": 184.327,
+		"MAX": 193.167
 	},
 	{
 		"IP/HOST": "89.187.162.1",
 		"CONTINENT": "Asia",
 		"COUNTRY": "SG",
 		"SITE": "Singapore",
-		"MIN": 242.340,
-		"AVG": 245.722,
-		"MAX": 271.742
+		"MIN": 234.562,
+		"AVG": 236.117,
+		"MAX": 243.618
 	},
 	{
 		"IP/HOST": "96.45.38.22",
 		"CONTINENT": "Asia",
 		"COUNTRY": "SG",
 		"SITE": "Singapore",
-		"MIN": 253.868,
-		"AVG": 256.174,
-		"MAX": 269.075
+		"MIN": 234.620,
+		"AVG": 236.657,
+		"MAX": 246.375
 	},
 	{
 		"IP/HOST": "speedtest.sin1.sg.leaseweb.net",
 		"CONTINENT": "Asia",
 		"COUNTRY": "SG",
 		"SITE": "Singapore",
-		"MIN": 253.311,
-		"AVG": 255.688,
-		"MAX": 271.325
+		"MIN": 245.354,
+		"AVG": 247.386,
+		"MAX": 253.023
 	},
 	{
 		"IP/HOST": "sgp.proof.ovh.net",
 		"CONTINENT": "Asia",
 		"COUNTRY": "SG",
 		"SITE": "Singapore",
-		"MIN": 231.449,
-		"AVG": 234.059,
-		"MAX": 250.806
+		"MIN": 251.690,
+		"AVG": 254.343,
+		"MAX": 264.923
 	},
 	{
 		"IP/HOST": "speedtest.singnet.com.sg",
 		"CONTINENT": "Asia",
 		"COUNTRY": "SG",
 		"SITE": "Singapore",
-		"MIN": 208.393,
-		"AVG": 210.473,
-		"MAX": 217.863
+		"MIN": 237.520,
+		"AVG": 238.680,
+		"MAX": 243.760
 	},
 	{
 		"IP/HOST": "156.146.52.1",
 		"CONTINENT": "Asia",
 		"COUNTRY": "TR",
 		"SITE": "Istanbul",
-		"MIN": 141.871,
-		"AVG": 144.524,
-		"MAX": 154.474
+		"MIN": 159.430,
+		"AVG": 162.184,
+		"MAX": 173.105
 	},
 	{
 		"IP/HOST": "69.48.237.66",
 		"CONTINENT": "Asia",
 		"COUNTRY": "TR",
 		"SITE": "Istanbul",
-		"MIN": 143.141,
-		"AVG": 145.733,
-		"MAX": 154.585
+		"MIN": 165.883,
+		"AVG": 167.415,
+		"MAX": 173.819
 	},
 	{
 		"IP/HOST": "speedtest.uztelecom.uz",
 		"CONTINENT": "Asia",
 		"COUNTRY": "UZ",
 		"SITE": "Tashkent",
-		"MIN": 202.894,
-		"AVG": 208.048,
-		"MAX": 408.544
+		"MIN": 217.256,
+		"AVG": 219.031,
+		"MAX": 226.682
 	},
 	{
 		"IP/HOST": "185.180.12.40",
 		"CONTINENT": "Europe",
 		"COUNTRY": "AT",
 		"SITE": "Vienna",
-		"MIN": 120.791,
-		"AVG": 123.141,
-		"MAX": 134.237
+		"MIN": 134.158,
+		"AVG": 135.435,
+		"MAX": 142.411
 	},
 	{
 		"IP/HOST": "lg.vie.alwyzon.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "AT",
 		"SITE": "Vienna",
-		"MIN": 131.638,
-		"AVG": 136.109,
-		"MAX": 223.749
+		"MIN": 126.409,
+		"AVG": 128.063,
+		"MAX": 135.562
 	},
 	{
 		"IP/HOST": "207.211.214.65",
 		"CONTINENT": "Europe",
 		"COUNTRY": "BE",
 		"SITE": "Brussels",
-		"MIN": 102.846,
-		"AVG": 106.463,
-		"MAX": 135.550
+		"MIN": 115.068,
+		"AVG": 120.819,
+		"MAX": 128.514
 	},
 	{
 		"IP/HOST": "37.19.203.1",
 		"CONTINENT": "Europe",
 		"COUNTRY": "BG",
 		"SITE": "Sofia",
-		"MIN": 151.515,
-		"AVG": 154.670,
-		"MAX": 179.536
+		"MIN": 152.823,
+		"AVG": 154.957,
+		"MAX": 168.816
 	},
 	{
 		"IP/HOST": "t5.cscs.ch",
 		"CONTINENT": "Europe",
 		"COUNTRY": "CH",
 		"SITE": "Zu00fcrich",
-		"MIN": 115.557,
-		"AVG": 118.252,
-		"MAX": 128.464
+		"MIN": 130.262,
+		"AVG": 132.025,
+		"MAX": 146.158
 	},
 	{
 		"IP/HOST": "89.187.165.1",
 		"CONTINENT": "Europe",
 		"COUNTRY": "CH",
 		"SITE": "Zu00fcrich",
-		"MIN": 129.514,
-		"AVG": 132.206,
-		"MAX": 141.154
+		"MIN": 132.518,
+		"AVG": 134.627,
+		"MAX": 141.971
 	},
 	{
 		"IP/HOST": "speedtest.init7.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "CH",
 		"SITE": "Winterthur",
-		"MIN": 111.420,
-		"AVG": 113.398,
-		"MAX": 126.975
+		"MIN": 128.726,
+		"AVG": 131.021,
+		"MAX": 143.413
 	},
 	{
 		"IP/HOST": "212.60.47.34",
 		"CONTINENT": "Europe",
 		"COUNTRY": "CH",
 		"SITE": "Bern",
-		"MIN": 118.704,
-		"AVG": 120.800,
-		"MAX": 132.798
+		"MIN": 132.638,
+		"AVG": 134.520,
+		"MAX": 139.797
 	},
 	{
 		"IP/HOST": "speedtest.shinternet.ch",
 		"CONTINENT": "Europe",
 		"COUNTRY": "CH",
 		"SITE": "Schaffhausen",
-		"MIN": 110.792,
-		"AVG": 113.133,
-		"MAX": 126.773
+		"MIN": 131.684,
+		"AVG": 132.774,
+		"MAX": 136.856
 	},
 	{
 		"IP/HOST": "speedtest.iway.ch",
 		"CONTINENT": "Europe",
 		"COUNTRY": "CH",
 		"SITE": "Zu00fcrich",
-		"MIN": 111.708,
-		"AVG": 114.273,
-		"MAX": 127.657
+		"MIN": 130.008,
+		"AVG": 131.800,
+		"MAX": 142.004
 	},
 	{
 		"IP/HOST": "185.152.65.113",
 		"CONTINENT": "Europe",
 		"COUNTRY": "CZ",
 		"SITE": "Prague",
-		"MIN": 119.719,
-		"AVG": 122.491,
-		"MAX": 137.400
+		"MIN": 131.107,
+		"AVG": 133.305,
+		"MAX": 155.817
 	},
 	{
 		"IP/HOST": "85.163.71.241",
 		"CONTINENT": "Europe",
 		"COUNTRY": "CZ",
 		"SITE": "Hrdlou0159ezy",
-		"MIN": 124.181,
-		"AVG": 127.232,
-		"MAX": 138.686
+		"MIN": 135.624,
+		"AVG": 139.612,
+		"MAX": 170.954
 	},
 	{
 		"IP/HOST": "fra.speedtest.clouvider.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Frankfurt",
-		"MIN": 110.057,
-		"AVG": 112.216,
-		"MAX": 126.708
+		"MIN": 118.756,
+		"AVG": 120.107,
+		"MAX": 124.094
 	},
 	{
 		"IP/HOST": "185.102.219.93",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Frankfurt",
-		"MIN": 108.045,
-		"AVG": 110.264,
-		"MAX": 127.634
+		"MIN": 121.702,
+		"AVG": 125.973,
+		"MAX": 191.541
 	},
 	{
 		"IP/HOST": "178.215.228.109",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Frankfurt",
-		"MIN": 106.111,
-		"AVG": 108.278,
-		"MAX": 117.235
+		"MIN": 121.024,
+		"AVG": 123.404,
+		"MAX": 142.899
 	},
 	{
 		"IP/HOST": "96.45.39.38",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Frankfurt",
-		"MIN": 110.699,
-		"AVG": 113.383,
-		"MAX": 133.997
+		"MIN": 115.938,
+		"AVG": 118.756,
+		"MAX": 143.816
 	},
 	{
 		"IP/HOST": "spd-desrv.hostkey.com",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Frankfurt",
-		"MIN": 110.351,
-		"AVG": 112.962,
-		"MAX": 126.889
+		"MIN": 120.818,
+		"AVG": 123.834,
+		"MAX": 132.391
 	},
 	{
 		"IP/HOST": "speedtest.ip-projects.de",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Frankfurt",
-		"MIN": 110.663,
-		"AVG": 113.402,
-		"MAX": 181.907
+		"MIN": 112.658,
+		"AVG": 115.456,
+		"MAX": 132.989
 	},
 	{
 		"IP/HOST": "speedtest.fra1.de.leaseweb.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Frankfurt",
-		"MIN": 107.261,
-		"AVG": 109.718,
-		"MAX": 128.812
+		"MIN": 118.002,
+		"AVG": 120.791,
+		"MAX": 165.834
 	},
 	{
 		"IP/HOST": "a209.speedtest.wobcom.de",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Berlin",
-		"MIN": 123.806,
-		"AVG": 126.678,
-		"MAX": 136.791
+		"MIN": 136.893,
+		"AVG": 139.188,
+		"MAX": 149.555
 	},
 	{
 		"IP/HOST": "a110.speedtest.wobcom.de",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Berlin",
-		"MIN": 120.984,
-		"AVG": 123.629,
-		"MAX": 133.437
+		"MIN": 137.402,
+		"AVG": 139.073,
+		"MAX": 158.607
 	},
 	{
 		"IP/HOST": "a208.speedtest.wobcom.de",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Du00fcsseldorf",
-		"MIN": 118.590,
-		"AVG": 122.242,
-		"MAX": 147.677
+		"MIN": 137.048,
+		"AVG": 138.518,
+		"MAX": 143.503
 	},
 	{
 		"IP/HOST": "a210.speedtest.wobcom.de",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Frankfurt",
-		"MIN": 120.392,
-		"AVG": 126.148,
-		"MAX": 299.033
+		"MIN": 135.587,
+		"AVG": 138.979,
+		"MAX": 159.062
 	},
 	{
 		"IP/HOST": "a205.speedtest.wobcom.de",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Frankfurt",
-		"MIN": 116.199,
-		"AVG": 118.725,
-		"MAX": 143.730
+		"MIN": 136.654,
+		"AVG": 138.231,
+		"MAX": 146.145
 	},
 	{
 		"IP/HOST": "speedtest.wobcom.de",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Wolfsburg",
-		"MIN": 121.508,
-		"AVG": 124.379,
-		"MAX": 139.691
+		"MIN": 138.421,
+		"AVG": 142.903,
+		"MAX": 170.706
 	},
 	{
 		"IP/HOST": "a400.speedtest.wobcom.de",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Wolfsburg",
-		"MIN": 124.342,
-		"AVG": 129.942,
-		"MAX": 304.635
+		"MIN": 142.556,
+		"AVG": 158.187,
+		"MAX": 174.881
 	},
 	{
 		"IP/HOST": "speedtest.wtnet.de",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DE",
 		"SITE": "Norderstedt",
-		"MIN": 113.016,
-		"AVG": 116.358,
-		"MAX": 129.836
+		"MIN": 128.798,
+		"AVG": 130.202,
+		"MAX": 135.293
 	},
 	{
 		"IP/HOST": "121.127.45.65",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DK",
 		"SITE": "Copenhagen",
-		"MIN": 102.061,
-		"AVG": 103.978,
-		"MAX": 114.138
+		"MIN": 121.809,
+		"AVG": 124.098,
+		"MAX": 155.384
 	},
 	{
 		"IP/HOST": "speed1.fiberby.dk",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DK",
 		"SITE": "Copenhagen",
-		"MIN": 129.056,
-		"AVG": 131.269,
-		"MAX": 143.875
+		"MIN": 121.869,
+		"AVG": 124.817,
+		"MAX": 153.691
 	},
 	{
 		"IP/HOST": "speed2.fiberby.dk",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DK",
 		"SITE": "Copenhagen",
-		"MIN": 113.476,
-		"AVG": 115.883,
-		"MAX": 125.336
+		"MIN": 123.593,
+		"AVG": 125.614,
+		"MAX": 138.460
 	},
 	{
 		"IP/HOST": "speedtest.hiper.dk",
 		"CONTINENT": "Europe",
 		"COUNTRY": "DK",
 		"SITE": "Copenhagen",
-		"MIN": 131.642,
-		"AVG": 133.802,
-		"MAX": 143.812
+		"MIN": 138.118,
+		"AVG": 140.352,
+		"MAX": 152.215
 	},
 	{
 		"IP/HOST": "185.93.3.50",
 		"CONTINENT": "Europe",
 		"COUNTRY": "ES",
 		"SITE": "Madrid",
-		"MIN": 129.074,
-		"AVG": 131.186,
-		"MAX": 139.829
+		"MIN": 128.363,
+		"AVG": 130.439,
+		"MAX": 138.476
 	},
 	{
 		"IP/HOST": "148.230.45.213",
 		"CONTINENT": "Europe",
 		"COUNTRY": "ES",
 		"SITE": "Madrid",
-		"MIN": 99.387,
-		"AVG": 101.927,
-		"MAX": 115.439
+		"MIN": 132.121,
+		"AVG": 135.024,
+		"MAX": 169.983
 	},
 	{
 		"IP/HOST": "spd-fisrv.hostkey.com",
 		"CONTINENT": "Europe",
 		"COUNTRY": "FI",
 		"SITE": "Helsinki",
-		"MIN": 150.677,
-		"AVG": 153.074,
-		"MAX": 169.842
+		"MIN": 145.055,
+		"AVG": 147.252,
+		"MAX": 156.184
 	},
 	{
 		"IP/HOST": "138.199.14.66",
 		"CONTINENT": "Europe",
 		"COUNTRY": "FR",
 		"SITE": "Marseille",
-		"MIN": 109.608,
-		"AVG": 112.813,
-		"MAX": 124.373
+		"MIN": 124.702,
+		"AVG": 127.710,
+		"MAX": 144.718
 	},
 	{
 		"IP/HOST": "185.93.2.193",
 		"CONTINENT": "Europe",
 		"COUNTRY": "FR",
 		"SITE": "Paris",
-		"MIN": 103.346,
-		"AVG": 105.382,
-		"MAX": 117.124
+		"MIN": 114.572,
+		"AVG": 116.901,
+		"MAX": 127.530
 	},
 	{
 		"IP/HOST": "96.45.42.156",
 		"CONTINENT": "Europe",
 		"COUNTRY": "FR",
 		"SITE": "Paris",
-		"MIN": 98.740,
-		"AVG": 101.953,
-		"MAX": 116.895
+		"MIN": 108.985,
+		"AVG": 111.087,
+		"MAX": 134.698
 	},
 	{
 		"IP/HOST": "96.45.41.167",
 		"CONTINENT": "Europe",
 		"COUNTRY": "FR",
 		"SITE": "Valbonne",
-		"MIN": 111.037,
-		"AVG": 114.989,
-		"MAX": 131.192
+		"MIN": 122.330,
+		"AVG": 124.406,
+		"MAX": 134.927
 	},
 	{
 		"IP/HOST": "ping-90ms.online.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "FR",
 		"SITE": "Paris",
-		"MIN": 191.383,
-		"AVG": 194.222,
-		"MAX": 204.350
+		"MIN": 208.718,
+		"AVG": 211.260,
+		"MAX": 225.217
 	},
 	{
 		"IP/HOST": "ping6-90ms.online.net",
@@ -715,9 +715,9 @@
 		"CONTINENT": "Europe",
 		"COUNTRY": "FR",
 		"SITE": "Paris",
-		"MIN": 103.211,
-		"AVG": 105.579,
-		"MAX": 114.603
+		"MIN": 113.042,
+		"AVG": 115.621,
+		"MAX": 121.922
 	},
 	{
 		"IP/HOST": "ping6.online.net",
@@ -733,90 +733,90 @@
 		"CONTINENT": "Europe",
 		"COUNTRY": "FR",
 		"SITE": "Vitry-sur-Seine",
-		"MIN": 105.847,
-		"AVG": 108.201,
-		"MAX": 126.011
+		"MIN": 111.065,
+		"AVG": 113.056,
+		"MAX": 120.963
 	},
 	{
 		"IP/HOST": "ping.online.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "FR",
 		"SITE": "Vitry-sur-Seine",
-		"MIN": 103.462,
-		"AVG": 106.487,
-		"MAX": 121.851
+		"MIN": 116.661,
+		"AVG": 118.232,
+		"MAX": 134.109
 	},
 	{
 		"IP/HOST": "iperf3.moji.fr",
 		"CONTINENT": "Europe",
 		"COUNTRY": "FR",
 		"SITE": "Paris",
-		"MIN": 98.398,
-		"AVG": 101.923,
-		"MAX": 117.211
+		"MIN": 109.637,
+		"AVG": 112.414,
+		"MAX": 130.598
 	},
 	{
 		"IP/HOST": "lon.speedtest.clouvider.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "GB",
 		"SITE": "London",
-		"MIN": 93.543,
-		"AVG": 96.712,
-		"MAX": 110.003
+		"MIN": 104.976,
+		"AVG": 108.655,
+		"MAX": 118.732
 	},
 	{
 		"IP/HOST": "185.59.221.51",
 		"CONTINENT": "Europe",
 		"COUNTRY": "GB",
 		"SITE": "London",
-		"MIN": 101.761,
-		"AVG": 104.287,
-		"MAX": 118.288
+		"MIN": 103.416,
+		"AVG": 105.228,
+		"MAX": 111.952
 	},
 	{
 		"IP/HOST": "96.45.40.45",
 		"CONTINENT": "Europe",
 		"COUNTRY": "GB",
 		"SITE": "London",
-		"MIN": 104.199,
-		"AVG": 106.225,
-		"MAX": 115.027
+		"MIN": 109.065,
+		"AVG": 111.460,
+		"MAX": 128.607
 	},
 	{
 		"IP/HOST": "speedtest.lon1.uk.leaseweb.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "GB",
 		"SITE": "London",
-		"MIN": 97.523,
-		"AVG": 100.717,
-		"MAX": 114.930
+		"MIN": 109.306,
+		"AVG": 111.262,
+		"MAX": 124.809
 	},
 	{
 		"IP/HOST": "speedtest.lon12.uk.leaseweb.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "GB",
 		"SITE": "London",
-		"MIN": 99.873,
-		"AVG": 102.208,
-		"MAX": 112.999
+		"MIN": 105.758,
+		"AVG": 108.205,
+		"MAX": 123.178
 	},
 	{
 		"IP/HOST": "speedtest2.lightningfibre.net.uk",
 		"CONTINENT": "Europe",
 		"COUNTRY": "GB",
 		"SITE": "London",
-		"MIN": 96.391,
-		"AVG": 99.151,
-		"MAX": 109.120
+		"MIN": 108.270,
+		"AVG": 109.904,
+		"MAX": 115.330
 	},
 	{
 		"IP/HOST": "iperf.as42831.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "GB",
 		"SITE": "London",
-		"MIN": 98.138,
-		"AVG": 102.171,
-		"MAX": 135.880
+		"MIN": 110.481,
+		"AVG": 112.105,
+		"MAX": 118.086
 	},
 	{
 		"IP/HOST": "45.92.46.189",
@@ -832,917 +832,908 @@
 		"CONTINENT": "Europe",
 		"COUNTRY": "GR",
 		"SITE": "Athens",
-		"MIN": 152.450,
-		"AVG": 154.872,
-		"MAX": 162.595
+		"MIN": 156.133,
+		"AVG": 158.853,
+		"MAX": 175.791
 	},
 	{
 		"IP/HOST": "169.150.242.129",
 		"CONTINENT": "Europe",
 		"COUNTRY": "HR",
 		"SITE": "Zagreb",
-		"MIN": 127.036,
-		"AVG": 130.042,
-		"MAX": 141.766
+		"MIN": 139.319,
+		"AVG": 141.190,
+		"MAX": 151.698
 	},
 	{
 		"IP/HOST": "87.249.137.8",
 		"CONTINENT": "Europe",
 		"COUNTRY": "IE",
 		"SITE": "Dublin",
-		"MIN": 120.574,
-		"AVG": 122.710,
-		"MAX": 132.709
+		"MIN": 112.009,
+		"AVG": 113.755,
+		"MAX": 126.818
 	},
 	{
 		"IP/HOST": "spd-icsrv.hostkey.com",
 		"CONTINENT": "Europe",
 		"COUNTRY": "IS",
 		"SITE": "Reykjavik",
-		"MIN": 121.646,
-		"AVG": 124.959,
-		"MAX": 137.904
+		"MIN": 148.921,
+		"AVG": 150.442,
+		"MAX": 158.762
 	},
 	{
 		"IP/HOST": "it1.speedtest.aruba.it",
 		"CONTINENT": "Europe",
 		"COUNTRY": "IT",
 		"SITE": "Arezzo",
-		"MIN": 126.026,
-		"AVG": 129.782,
-		"MAX": 143.161
+		"MIN": 142.221,
+		"AVG": 144.957,
+		"MAX": 159.110
 	},
 	{
 		"IP/HOST": "217.61.40.96",
 		"CONTINENT": "Europe",
 		"COUNTRY": "IT",
 		"SITE": "Ponte",
-		"MIN": 123.228,
-		"AVG": 126.319,
-		"MAX": 142.655
+		"MIN": 137.348,
+		"AVG": 138.996,
+		"MAX": 144.844
 	},
 	{
 		"IP/HOST": "84.17.59.129",
 		"CONTINENT": "Europe",
 		"COUNTRY": "IT",
 		"SITE": "Milan",
-		"MIN": 118.088,
-		"AVG": 121.824,
-		"MAX": 143.398
+		"MIN": 136.080,
+		"AVG": 138.624,
+		"MAX": 154.069
 	},
 	{
 		"IP/HOST": "speedtest.lu.buyvm.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "LU",
 		"SITE": "Bissen",
-		"MIN": 115.090,
-		"AVG": 118.346,
-		"MAX": 132.583
+		"MIN": 129.708,
+		"AVG": 131.825,
+		"MAX": 171.802
 	},
 	{
 		"IP/HOST": "speedtest-ams-nl.as215248.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Amsterdam",
-		"MIN": 98.304,
-		"AVG": 101.454,
-		"MAX": 115.785
+		"MIN": 112.033,
+		"AVG": 114.243,
+		"MAX": 134.264
 	},
 	{
 		"IP/HOST": "ams.speedtest.clouvider.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Amsterdam",
-		"MIN": 102.484,
-		"AVG": 105.259,
-		"MAX": 116.877
+		"MIN": 108.723,
+		"AVG": 110.700,
+		"MAX": 117.948
 	},
 	{
 		"IP/HOST": "185.102.218.1",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Amsterdam",
-		"MIN": 119.490,
-		"AVG": 121.646,
-		"MAX": 130.712
+		"MIN": 114.732,
+		"AVG": 116.350,
+		"MAX": 124.481
 	},
 	{
 		"IP/HOST": "iperf-ams-nl.eranium.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Amsterdam",
-		"MIN": 104.622,
-		"AVG": 108.616,
-		"MAX": 120.464
+		"MIN": 115.242,
+		"AVG": 117.152,
+		"MAX": 126.607
 	},
 	{
 		"IP/HOST": "speedtest.ams1.nl.leaseweb.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Amsterdam",
-		"MIN": 100.158,
-		"AVG": 104.104,
-		"MAX": 131.052
+		"MIN": 114.319,
+		"AVG": 115.684,
+		"MAX": 122.028
 	},
 	{
 		"IP/HOST": "speedtest.ams2.nl.leaseweb.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Amsterdam",
-		"MIN": 103.182,
-		"AVG": 118.345,
-		"MAX": 245.510
+		"MIN": 119.415,
+		"AVG": 121.903,
+		"MAX": 131.730
 	},
 	{
 		"IP/HOST": "speedtest.nl1.mirhosting.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Dronten",
-		"MIN": 103.769,
-		"AVG": 106.326,
-		"MAX": 119.544
+		"MIN": 109.856,
+		"AVG": 112.152,
+		"MAX": 122.619
 	},
 	{
 		"IP/HOST": "speedtest.netone.nl",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Amsterdam",
-		"MIN": 101.806,
-		"AVG": 104.765,
-		"MAX": 124.867
+		"MIN": 129.444,
+		"AVG": 131.698,
+		"MAX": 148.750
 	},
 	{
 		"IP/HOST": "speedtest.ams1.novogara.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Amsterdam",
-		"MIN": 100.156,
-		"AVG": 103.028,
-		"MAX": 116.340
+		"MIN": 138.826,
+		"AVG": 141.586,
+		"MAX": 168.245
 	},
 	{
 		"IP/HOST": "ping-ams1.online.net",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Amsterdam",
-		"MIN": 112.966,
-		"AVG": 116.062,
-		"MAX": 127.676
+		"MIN": 122.578,
+		"AVG": 124.502,
+		"MAX": 136.668
 	},
 	{
 		"IP/HOST": "lg.ams-nl.terrahost.com",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Amsterdam",
-		"MIN": 101.673,
-		"AVG": 104.615,
-		"MAX": 116.739
+		"MIN": 123.855,
+		"AVG": 125.892,
+		"MAX": 133.803
 	},
 	{
 		"IP/HOST": "a204.speedtest.wobcom.de",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NL",
 		"SITE": "Amsterdam",
-		"MIN": 130.534,
-		"AVG": 143.804,
-		"MAX": 403.419
+		"MIN": 138.745,
+		"AVG": 141.010,
+		"MAX": 156.068
 	},
 	{
 		"IP/HOST": "lg.gigahost.no",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NO",
 		"SITE": "Sandefjord",
-		"MIN": 127.145,
-		"AVG": 135.619,
-		"MAX": 306.943
+		"MIN": 129.993,
+		"AVG": 131.498,
+		"MAX": 140.228
 	},
 	{
 		"IP/HOST": "lg.terrahost.com",
 		"CONTINENT": "Europe",
 		"COUNTRY": "NO",
 		"SITE": "Sandefjord",
-		"MIN": 126.880,
-		"AVG": 130.998,
-		"MAX": 148.761
+		"MIN": 129.576,
+		"AVG": 131.854,
+		"MAX": 140.060
 	},
 	{
 		"IP/HOST": "185.246.208.67",
 		"CONTINENT": "Europe",
 		"COUNTRY": "PL",
 		"SITE": "Warsaw",
-		"MIN": 122.272,
-		"AVG": 124.894,
-		"MAX": 146.532
+		"MIN": 145.923,
+		"AVG": 147.396,
+		"MAX": 158.495
 	},
 	{
 		"IP/HOST": "109.61.94.65",
 		"CONTINENT": "Europe",
 		"COUNTRY": "PT",
 		"SITE": "Lisbon",
-		"MIN": 136.468,
-		"AVG": 139.055,
-		"MAX": 151.791
+		"MIN": 146.085,
+		"AVG": 148.101,
+		"MAX": 166.830
 	},
 	{
 		"IP/HOST": "lisboa.speedtest.net.zon.pt",
 		"CONTINENT": "Europe",
 		"COUNTRY": "PT",
 		"SITE": "Lisbon",
-		"MIN": 136.002,
-		"AVG": 138.812,
-		"MAX": 151.841
+		"MIN": 134.624,
+		"AVG": 136.787,
+		"MAX": 159.614
 	},
 	{
 		"IP/HOST": "porto.speedtest.net.zon.pt",
 		"CONTINENT": "Europe",
 		"COUNTRY": "PT",
 		"SITE": "Porto",
-		"MIN": 128.454,
-		"AVG": 130.848,
-		"MAX": 141.656
+		"MIN": 127.529,
+		"AVG": 134.143,
+		"MAX": 210.015
 	},
 	{
 		"IP/HOST": "185.102.217.170",
 		"CONTINENT": "Europe",
 		"COUNTRY": "RO",
 		"SITE": "Bucharest",
-		"MIN": 137.561,
-		"AVG": 140.076,
-		"MAX": 151.089
+		"MIN": 149.996,
+		"AVG": 152.546,
+		"MAX": 163.267
 	},
 	{
 		"IP/HOST": "speedtest1.sox.rs",
 		"CONTINENT": "Europe",
 		"COUNTRY": "RS",
 		"SITE": "Belgrade",
-		"MIN": 140.818,
-		"AVG": 143.713,
-		"MAX": 157.590
+		"MIN": 137.283,
+		"AVG": 138.778,
+		"MAX": 143.431
 	},
 	{
 		"IP/HOST": "185.76.9.135",
 		"CONTINENT": "Europe",
 		"COUNTRY": "SE",
 		"SITE": "Stockholm",
-		"MIN": 113.828,
-		"AVG": 116.650,
-		"MAX": 126.076
+		"MIN": 135.494,
+		"AVG": 138.133,
+		"MAX": 172.294
 	},
 	{
 		"IP/HOST": "speedtest.kamel.network",
 		"CONTINENT": "Europe",
 		"COUNTRY": "SE",
 		"SITE": "Kista",
-		"MIN": 112.010,
-		"AVG": 114.869,
-		"MAX": 129.372
+		"MIN": 126.286,
+		"AVG": 129.025,
+		"MAX": 154.911
 	},
 	{
 		"IP/HOST": "speedtest.keff.org",
 		"CONTINENT": "Europe",
 		"COUNTRY": "SE",
 		"SITE": "Stockholm",
-		"MIN": 114.263,
-		"AVG": 117.870,
-		"MAX": 153.617
+		"MIN": 127.571,
+		"AVG": 175.318,
+		"MAX": 317.917
 	},
 	{
 		"IP/HOST": "156.146.40.65",
 		"CONTINENT": "Europe",
 		"COUNTRY": "SK",
 		"SITE": "Bratislava",
-		"MIN": 123.480,
-		"AVG": 125.948,
-		"MAX": 134.870
+		"MIN": 130.156,
+		"AVG": 195.815,
+		"MAX": 315.154
 	},
 	{
 		"IP/HOST": "37.19.218.65",
 		"CONTINENT": "Europe",
 		"COUNTRY": "UA",
 		"SITE": "Kyiv",
-		"MIN": 138.267,
-		"AVG": 141.198,
-		"MAX": 156.453
+		"MIN": 152.794,
+		"AVG": 154.018,
+		"MAX": 158.993
 	},
 	{
 		"IP/HOST": "138.199.4.1",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "BR",
-		"MIN": 138.093,
-		"AVG": 140.361,
-		"MAX": 149.838
+		"MIN": 166.203,
+		"AVG": 168.527,
+		"MAX": 178.737
 	},
 	{
 		"IP/HOST": "148.230.60.200",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "BR",
-		"MIN": 142.211,
-		"AVG": 144.837,
-		"MAX": 155.425
+		"MIN": 155.235,
+		"AVG": 157.014,
+		"MAX": 166.307
 	},
 	{
 		"IP/HOST": "speedtest.sao1.edgoo.net",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "BR",
-		"MIN": 135.902,
-		"AVG": 140.654,
-		"MAX": 241.778
+		"MIN": 237.854,
+		"AVG": 242.480,
+		"MAX": 251.717
 	},
 	{
 		"IP/HOST": "79.127.209.1",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "CL",
-		"MIN": 141.078,
-		"AVG": 143.982,
-		"MAX": 154.027
+		"MIN": 152.539,
+		"AVG": 154.740,
+		"MAX": 173.447
 	},
 	{
 		"IP/HOST": "170.254.229.178",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "CO",
-		"MIN": 87.650,
-		"AVG": 91.429,
-		"MAX": 105.845
+		"MIN": 162.981,
+		"AVG": 164.993,
+		"MAX": 171.398
 	},
 	{
 		"IP/HOST": "169.150.228.129",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "CO",
-		"MIN": 97.336,
-		"AVG": 100.441,
-		"MAX": 115.262
+		"MIN": 113.035,
+		"AVG": 114.559,
+		"MAX": 124.615
 	},
 	{
 		"IP/HOST": "152.204.128.194",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "CO",
-		"MIN": 89.666,
-		"AVG": 93.346,
-		"MAX": 113.595
+		"MIN": 102.504,
+		"AVG": 103.735,
+		"MAX": 108.183
 	},
 	{
 		"IP/HOST": "156.146.53.53",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "CR",
-		"MIN": 58.361,
-		"AVG": 61.670,
-		"MAX": 76.333
+		"MIN": 63.790,
+		"AVG": 65.731,
+		"MAX": 78.957
 	},
 	{
 		"IP/HOST": "speedtest.masnet.ec",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "EC",
-		"MIN": 101.421,
-		"AVG": 103.661,
-		"MAX": 112.864
+		"MIN": 118.081,
+		"AVG": 119.691,
+		"MAX": 125.763
 	},
 	{
 		"IP/HOST": "speedtest1.flowjamaica.com",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "JM",
-		"MIN": 54.360,
-		"AVG": 57.899,
-		"MAX": 67.366
+		"MIN": 75.168,
+		"AVG": 77.047,
+		"MAX": 87.252
 	},
 	{
 		"IP/HOST": "121.127.43.65",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "MX",
-		"MIN": 49.436,
-		"AVG": 52.767,
-		"MAX": 70.205
+		"MIN": 64.744,
+		"AVG": 67.508,
+		"MAX": 77.862
 	},
 	{
 		"IP/HOST": "speedtest1.cwpanama.net",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "PA",
-		"MIN": 75.442,
-		"AVG": 78.241,
-		"MAX": 87.868
+		"MIN": 90.728,
+		"AVG": 93.328,
+		"MAX": 121.033
 	},
 	{
 		"IP/HOST": "speedtest6.cwpanama.net",
 		"CONTINENT": "Latin",
 		"COUNTRY": "America",
 		"SITE": "PA",
-		"MIN": 74.209,
-		"AVG": 78.008,
-		"MAX": 86.938
+		"MIN": 91.928,
+		"AVG": 94.292,
+		"MAX": 109.321
 	},
 	{
 		"IP/HOST": "138.199.57.129",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "CA",
-		"MIN": 26.951,
-		"AVG": 30.302,
-		"MAX": 56.700
+		"MIN": 46.462,
+		"AVG": 49.292,
+		"MAX": 64.060
 	},
 	{
 		"IP/HOST": "173.243.131.29",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "CA",
-		"MIN": 25.558,
-		"AVG": 28.659,
-		"MAX": 44.159
+		"MIN": 41.900,
+		"AVG": 45.331,
+		"MAX": 60.444
 	},
 	{
 		"IP/HOST": "96.45.43.6",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "CA",
-		"MIN": 20.951,
-		"AVG": 23.929,
-		"MAX": 33.890
+		"MIN": 27.122,
+		"AVG": 32.880,
+		"MAX": 41.667
 	},
 	{
 		"IP/HOST": "66.35.30.9",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "CA",
-		"MIN": 53.345,
-		"AVG": 55.909,
-		"MAX": 67.928
+		"MIN": 67.939,
+		"AVG": 71.170,
+		"MAX": 92.796
 	},
 	{
 		"IP/HOST": "speedtest.mtl2.ca.leaseweb.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "CA",
-		"MIN": 31.614,
-		"AVG": 33.878,
-		"MAX": 43.770
+		"MIN": 40.452,
+		"AVG": 42.248,
+		"MAX": 48.892
 	},
 	{
 		"IP/HOST": "yyc-speedtest.xplore.ca",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "CA",
-		"MIN": 40.366,
-		"AVG": 43.650,
-		"MAX": 56.066
+		"MIN": 80.714,
+		"AVG": 82.894,
+		"MAX": 92.327
 	},
 	{
 		"IP/HOST": "as21723.goco.ca",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "CA",
-		"MIN": 37.652,
-		"AVG": 41.706,
-		"MAX": 51.864
+		"MIN": 87.613,
+		"AVG": 89.396,
+		"MAX": 105.486
 	},
 	{
 		"IP/HOST": "speedtest.awbb.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 39.096,
-		"AVG": 42.298,
-		"MAX": 54.258
+		"MIN": 52.827,
+		"AVG": 54.567,
+		"MAX": 63.074
 	},
 	{
 		"IP/HOST": "ash.speedtest.clouvider.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 33.355,
-		"AVG": 36.138,
-		"MAX": 47.721
+		"MIN": 37.659,
+		"AVG": 39.624,
+		"MAX": 49.373
 	},
 	{
 		"IP/HOST": "atl.speedtest.clouvider.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 19.967,
-		"AVG": 23.883,
-		"MAX": 62.638
+		"MIN": 36.890,
+		"AVG": 38.951,
+		"MAX": 51.418
 	},
 	{
 		"IP/HOST": "dal.speedtest.clouvider.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 29.178,
-		"AVG": 31.636,
-		"MAX": 41.064
+		"MIN": 40.253,
+		"AVG": 42.093,
+		"MAX": 48.479
 	},
 	{
 		"IP/HOST": "la.speedtest.clouvider.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 57.577,
-		"AVG": 59.991,
-		"MAX": 74.518
+		"MIN": 64.382,
+		"AVG": 66.608,
+		"MAX": 78.692
 	},
 	{
 		"IP/HOST": "nyc.speedtest.clouvider.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 29.949,
-		"AVG": 34.371,
-		"MAX": 75.298
+		"MIN": 36.780,
+		"AVG": 38.300,
+		"MAX": 46.368
 	},
 	{
 		"IP/HOST": "37.19.206.20",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 35.957,
-		"AVG": 38.974,
-		"MAX": 50.276
+		"MIN": 35.359,
+		"AVG": 37.171,
+		"MAX": 45.393
 	},
 	{
 		"IP/HOST": "185.152.66.67",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 21.945,
-		"AVG": 28.511,
-		"MAX": 145.188
+		"MIN": 37.764,
+		"AVG": 39.971,
+		"MAX": 61.728
 	},
 	{
 		"IP/HOST": "109.61.86.65",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 32.865,
-		"AVG": 35.532,
-		"MAX": 45.147
+		"MIN": 41.139,
+		"AVG": 42.981,
+		"MAX": 50.457
 	},
 	{
 		"IP/HOST": "185.93.1.65",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 12.814,
-		"AVG": 15.148,
-		"MAX": 27.602
+		"MIN": 19.109,
+		"AVG": 21.831,
+		"MAX": 33.098
 	},
 	{
 		"IP/HOST": "89.187.164.1",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 28.682,
-		"AVG": 31.556,
-		"MAX": 47.577
+		"MIN": 43.844,
+		"AVG": 46.402,
+		"MAX": 63.778
 	},
 	{
 		"IP/HOST": "37.19.216.1",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 32.150,
-		"AVG": 35.482,
-		"MAX": 48.565
+		"MIN": 49.448,
+		"AVG": 51.348,
+		"MAX": 59.254
 	},
 	{
 		"IP/HOST": "185.152.67.2",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 61.054,
-		"AVG": 63.930,
-		"MAX": 76.089
+		"MIN": 73.740,
+		"AVG": 75.921,
+		"MAX": 90.658
 	},
 	{
 		"IP/HOST": "195.181.162.195",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 36.863,
-		"AVG": 39.799,
-		"MAX": 58.315
+		"MIN": 49.383,
+		"AVG": 51.081,
+		"MAX": 59.178
 	},
 	{
 		"IP/HOST": "185.59.223.8",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 26.680,
-		"AVG": 30.192,
-		"MAX": 48.540
+		"MIN": 36.768,
+		"AVG": 38.437,
+		"MAX": 46.513
 	},
 	{
 		"IP/HOST": "84.17.41.11",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 68.242,
-		"AVG": 72.150,
-		"MAX": 100.260
+		"MIN": 67.103,
+		"AVG": 69.520,
+		"MAX": 80.062
 	},
 	{
 		"IP/HOST": "66.35.22.79",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 26.151,
-		"AVG": 29.239,
-		"MAX": 45.715
+		"MIN": 40.830,
+		"AVG": 42.428,
+		"MAX": 50.048
 	},
 	{
 		"IP/HOST": "66.35.27.207",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 30.492,
-		"AVG": 33.697,
-		"MAX": 48.972
+		"MIN": 41.575,
+		"AVG": 44.440,
+		"MAX": 50.338
 	},
 	{
 		"IP/HOST": "23.249.54.234",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 38.093,
-		"AVG": 41.095,
-		"MAX": 51.391
+		"MIN": 47.635,
+		"AVG": 49.834,
+		"MAX": 59.607
 	},
 	{
 		"IP/HOST": "209.40.123.215",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 31.246,
-		"AVG": 33.571,
-		"MAX": 44.902
+		"MIN": 38.487,
+		"AVG": 40.350,
+		"MAX": 47.960
 	},
 	{
 		"IP/HOST": "66.35.20.123",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 61.017,
-		"AVG": 64.573,
-		"MAX": 87.184
+		"MIN": 66.581,
+		"AVG": 68.833,
+		"MAX": 81.297
 	},
 	{
 		"IP/HOST": "148.230.59.38",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 63.626,
-		"AVG": 66.927,
-		"MAX": 83.054
+		"MIN": 67.131,
+		"AVG": 70.610,
+		"MAX": 104.295
 	},
 	{
 		"IP/HOST": "spd-uswb.hostkey.com",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 33.698,
-		"AVG": 36.132,
-		"MAX": 46.465
+		"MIN": 36.599,
+		"AVG": 37.978,
+		"MAX": 46.566
 	},
 	{
 		"IP/HOST": "speedtest120.dal1.tx.hostedbackbone.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 51.890,
-		"AVG": 54.436,
-		"MAX": 63.542
+		"MIN": 56.685,
+		"AVG": 59.296,
+		"MAX": 75.872
 	},
 	{
 		"IP/HOST": "dfw.speedtest.is.cc",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 42.061,
-		"AVG": 44.479,
-		"MAX": 57.027
+		"MIN": 57.767,
+		"AVG": 59.267,
+		"MAX": 67.340
 	},
 	{
 		"IP/HOST": "speedtest.chi11.us.leaseweb.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 13.799,
-		"AVG": 16.147,
-		"MAX": 30.422
+		"MIN": 20.524,
+		"AVG": 21.888,
+		"MAX": 32.966
 	},
 	{
 		"IP/HOST": "speedtest.dal13.us.leaseweb.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 36.473,
-		"AVG": 39.363,
-		"MAX": 53.291
+		"MIN": 41.505,
+		"AVG": 43.522,
+		"MAX": 52.487
 	},
 	{
 		"IP/HOST": "speedtest.lax12.us.leaseweb.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 59.261,
-		"AVG": 62.111,
-		"MAX": 72.300
+		"MIN": 65.694,
+		"AVG": 67.020,
+		"MAX": 73.999
 	},
 	{
 		"IP/HOST": "speedtest.mia11.us.leaseweb.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 39.966,
-		"AVG": 42.679,
-		"MAX": 50.479
+		"MIN": 51.917,
+		"AVG": 54.443,
+		"MAX": 72.002
 	},
 	{
 		"IP/HOST": "speedtest.nyc1.us.leaseweb.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 27.267,
-		"AVG": 30.477,
-		"MAX": 42.811
+		"MIN": 39.487,
+		"AVG": 40.860,
+		"MAX": 50.091
 	},
 	{
 		"IP/HOST": "speedtest.phx1.us.leaseweb.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 50.967,
-		"AVG": 53.901,
-		"MAX": 65.049
+		"MIN": 73.460,
+		"AVG": 75.086,
+		"MAX": 79.923
 	},
 	{
 		"IP/HOST": "speedtest.sfo12.us.leaseweb.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 56.780,
-		"AVG": 59.398,
-		"MAX": 69.041
+		"MIN": 64.336,
+		"AVG": 65.876,
+		"MAX": 69.677
 	},
 	{
 		"IP/HOST": "speedtest.sea11.us.leaseweb.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 59.825,
-		"AVG": 62.726,
-		"MAX": 70.843
+		"MIN": 66.819,
+		"AVG": 68.194,
+		"MAX": 72.636
 	},
 	{
 		"IP/HOST": "speedtest.wdc2.us.leaseweb.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 35.348,
-		"AVG": 38.409,
-		"MAX": 46.409
+		"MIN": 37.783,
+		"AVG": 39.763,
+		"MAX": 49.607
 	},
 	{
 		"IP/HOST": "speedtest.nocix.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 22.183,
-		"AVG": 25.066,
-		"MAX": 34.871
+		"MIN": 40.620,
+		"AVG": 42.185,
+		"MAX": 45.423
 	},
 	{
 		"IP/HOST": "speedtest15.suddenlink.net",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 10.415,
-		"AVG": 13.335,
-		"MAX": 26.556
+		"MIN": 36.742,
+		"AVG": 38.109,
+		"MAX": 47.077
 	},
 	{
 		"IP/HOST": "107.1.167.50",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 64.701,
-		"AVG": 67.386,
-		"MAX": 77.890
+		"MIN": 68.529,
+		"AVG": 69.918,
+		"MAX": 76.925
 	},
 	{
 		"IP/HOST": "speedtest.xmission.com",
 		"CONTINENT": "North",
 		"COUNTRY": "America",
 		"SITE": "US",
-		"MIN": 61.097,
-		"AVG": 63.816,
-		"MAX": 73.533
+		"MIN": 69.592,
+		"AVG": 86.552,
+		"MAX": 120.513
 	},
 	{
 		"IP/HOST": "speedtest2.comvergence.com.au",
 		"CONTINENT": "Oceania",
 		"COUNTRY": "AU",
 		"SITE": "Melbourne",
-		"MIN": 208.382,
-		"AVG": 210.809,
-		"MAX": 226.691
+		"MIN": 218.119,
+		"AVG": 221.175,
+		"MAX": 265.357
 	},
 	{
 		"IP/HOST": "143.244.63.144",
 		"CONTINENT": "Oceania",
 		"COUNTRY": "AU",
 		"SITE": "Sydney",
-		"MIN": 199.213,
-		"AVG": 225.730,
-		"MAX": 278.770
+		"MIN": 203.451,
+		"AVG": 205.120,
+		"MAX": 211.964
 	},
 	{
 		"IP/HOST": "96.45.44.87",
 		"CONTINENT": "Oceania",
 		"COUNTRY": "AU",
 		"SITE": "Sydney",
-		"MIN": 189.520,
-		"AVG": 195.768,
-		"MAX": 245.070
+		"MIN": 206.420,
+		"AVG": 210.751,
+		"MAX": 227.082
 	},
 	{
 		"IP/HOST": "speedtest.syd12.au.leaseweb.net",
 		"CONTINENT": "Oceania",
 		"COUNTRY": "AU",
 		"SITE": "Sydney",
-		"MIN": 204.640,
-		"AVG": 207.200,
-		"MAX": 219.357
+		"MIN": 244.845,
+		"AVG": 246.693,
+		"MAX": 253.567
 	},
 	{
 		"IP/HOST": "syd.proof.ovh.net",
 		"CONTINENT": "Oceania",
 		"COUNTRY": "AU",
 		"SITE": "Sydney",
-		"MIN": 314.722,
-		"AVG": 317.220,
-		"MAX": 325.679
+		"MIN": 281.107,
+		"AVG": 284.367,
+		"MAX": 313.898
 	},
 	{
 		"IP/HOST": "speedtest.lagoon.nc",
 		"CONTINENT": "Oceania",
 		"COUNTRY": "NC",
 		"SITE": "Noumea",
-		"MIN": 239.863,
-		"AVG": 257.502,
-		"MAX": 296.911
+		"MIN": 258.390,
+		"AVG": 281.635,
+		"MAX": 411.036
 	},
 	{
 		"IP/HOST": "akl.linetest.nz",
 		"CONTINENT": "Oceania",
 		"COUNTRY": "NZ",
 		"SITE": "Auckland",
-		"MIN": 181.471,
-		"AVG": 184.146,
-		"MAX": 199.851
+		"MIN": 195.510,
+		"AVG": 196.799,
+		"MAX": 202.726
 	},
 	{
 		"IP/HOST": "chch.linetest.nz",
 		"CONTINENT": "Oceania",
 		"COUNTRY": "NZ",
 		"SITE": "Christchurch",
-		"MIN": 194.214,
-		"AVG": 197.804,
-		"MAX": 222.501
+		"MIN": 209.584,
+		"AVG": 211.515,
+		"MAX": 220.220
 	},
 	{
 		"IP/HOST": "154.81.51.4",
 		"CONTINENT": "Oceania",
 		"COUNTRY": "PG",
 		"SITE": "Port",
-		"MIN": -1,
-		"AVG": -1,
-		"MAX": -1
+		"MIN": 241.046,
+		"AVG": 242.511,
+		"MAX": 247.202
 	},
 	{
 		"IP/HOST": "103.146.200.98",
 		"CONTINENT": "Oceania",
 		"COUNTRY": "PG",
 		"SITE": "Port",
-		"MIN": 237.628,
-		"AVG": 239.769,
-		"MAX": 248.167
-	},
-	{
-		"IP/HOST": "127.0.0.1",
-		"CONTINENT": "North",
-		"COUNTRY": "America",
-		"SITE": "US",
-		"MIN": 0,
-		"AVG": 0,
-		"MAX": 0
+		"MIN": 243.586,
+		"AVG": 250.033,
+		"MAX": 259.687
 	}
 ]

@@ -5,6 +5,10 @@ import requests
 import math
 import time
 
+if len(sys.argv) != 3:
+    print("Usage: python geoLocator.py <input.json> <output.json>")
+    sys.exit(1)
+
 def haversine(lat1, lon1, lat2, lon2):
     R = 3958.8  # Earth radius in miles
 
@@ -21,7 +25,7 @@ def haversine(lat1, lon1, lat2, lon2):
 #input_file = "ipAddresses.csv"
 #output_file = "iperf_with_geo.csv"
 input_file = sys.argv[1]
-output_file = "iperf_with_geo.json"
+output_file = sys.argv[2]
 results = []
 lawson_long = -86.916956
 lawson_lat = 40.427611
