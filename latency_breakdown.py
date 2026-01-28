@@ -1,7 +1,6 @@
 import json
 import subprocess
 import random
-import platform
 import re
 import argparse
 import sys
@@ -39,16 +38,11 @@ def get_servers_by_index(filename="listed_iperf3_servers.json", indices=None):
 
 # Function runs traceroute and parses output
 def run_traceroute(destination):
-    system_os = platform.system().lower()
-    if system_os != "windows":
-        # -n disables DNS resolution (makes it faster)
-        # -q 1 sends only one packet
-        # -w makes it wait only 2 seconds for each step
-        cmd = ["traceroute", "-n", "-q", "1", "-w", "2", destination]
-    else:
-        # -d disables DNS resulution on windows
-        cmd = ["tracert", "-d", destination]
-    
+    # -n disables DNS resolution (makes it faster)
+    # -q 1 sends only one packet
+    # -w makes it wait only 2 seconds for each step
+    cmd = ["traceroute", "-n", "-q", "1", "-w", "2", destination]
+
     print(f"running traceroute to {destination}")
     try:
         # run traceroute with timeout set to 30s to prevent hanging
