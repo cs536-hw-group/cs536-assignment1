@@ -23,3 +23,5 @@ python3 geoLocator.py ping_output.json iperf_with_geo.json
 #this calls the python program that plots the Distance v RTT scatter plot
 python3 jsonToPlot.py ping_output.json iperf_with_geo.json
 
+#this calls the python script that runs traceroute for part 2 and graphs for 2b and 2c
+python3 latency_breakdown.py -i "$input_file"

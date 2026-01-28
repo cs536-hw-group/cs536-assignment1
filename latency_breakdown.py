@@ -3,6 +3,8 @@ import subprocess
 import random
 import platform
 import re
+import argparse
+import sys
 import matplotlib.pyplot as plt
 
 
@@ -68,10 +70,10 @@ def run_traceroute(destination):
     return hop_data
 
 
-def main():
+def run_experiments(args):
     # pick 5 random servers from list
     # can specify indices here, example: get_servers_by_index("listed_iperf3_servers", [0, 5, 10, 15, 20])
-    selected_ips = get_servers_by_index("listed_iperf3_servers.json")
+    selected_ips = get_servers_by_index(args.input)
     
     if not selected_ips:
         return
@@ -118,6 +120,8 @@ def main():
     plt.figure(figsize=(10, 6))
     for ip, hops in results.items():
         max_hop = hops[-1][0]   # last hop number
+        # per piazza post @21, use ping RTT for 2c instead of last traceroute hop RTT
+
         final_rtt = hops[-1][1] # last RTT
         plt.scatter(max_hop, final_rtt, s=50)
         plt.text(max_hop + 0.2, final_rtt, ip, fontsize=9, verticalalignment='center')
@@ -130,5 +134,21 @@ def main():
     plt.show()
 
 
-if __name__ == "__main__":
-    main()
+
+class CustomArgumentParser(argparse.ArgumentParser):
+    def error(self, message):
+        print(f"Error: {message}\n")
+        print("Usage: python latency_breakdown.py -i <json file website info>\n")
+        sys.exit(2)
+  
+if __name__ == '__main__':
+    parser = CustomArgumentParser()
+    parser.add_argument('-i', '--input', type=str, required=True, help='json list of servers')
+
+    args = parser.parse_args()
+
+    if args:
+        run_experiments(args)
+    else:
+        pass
+
