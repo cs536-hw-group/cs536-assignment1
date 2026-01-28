@@ -107,14 +107,26 @@ while read line; do
 
     # run print_ip_data if line contains '}' (arbitarily chosen line to print data on)
     if [[ $(echo $line | grep -P '}') ]]; then
-        print_ip_data $ip_host $continent $country $site
+        print_ip_data "$ip_host" "$continent" "$country" "$site"
         echo $cnt # show count for current ip being analyzed
         cnt+=1
     fi
 done < $input_file
 
+echo "loop out"
+
+
+# ping loopback ip data
+ip_host='127.0.0.1'
+continent='North America'
+country='US'
+site='West Lafayette'
+
+print_ip_data "$ip_host" "$continent" "$country" "$site"
+
 sed -i '$d' $output_file # used to delete the comma on last object, to preseve the json format
 echo -e "\t}" >> $output_file
+
 echo ']' >> $output_file
 
-echo "Finished"
+echo "Finished Pinging IPs"
