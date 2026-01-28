@@ -42,6 +42,9 @@ def main():
         if ping["AVG"] == -1:
             continue
 
+        if d["DISTANCE"] == "":
+            continue
+
         distance = float(d["DISTANCE"])
         avg_ping = ping["AVG"]
 
