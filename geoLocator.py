@@ -22,11 +22,11 @@ def haversine(lat1, lon1, lat2, lon2):
 #output_file = "iperf_with_geo.csv"
 input_file = sys.argv[1]
 output_file = "iperf_with_geo.json"
-results = []
+results = [] #will act as temporary data holder to move stuff from input json to output
 lawson_long = -86.916956
 lawson_lat = 40.427611
 
-# Read the CSV and resolve each domain
+
 with open(input_file, newline="") as f:
     data = json.load(f)
 
@@ -46,23 +46,23 @@ for entry in data:
         "DISTANCE": ""
     })
 
-    noLoc = len(results)
+    noLoc = len(results) #this will be a counter for how many hosts still dont have a location lookup (necessary because the geolocator api only takes a limited number of requests per minute so we have to track how many are still not done in first timeout)
     rounds = 0
 
-    while noLoc>0 and rounds < 5:
+    while noLoc>0 and rounds < 5: #just added this bound on rounds to limit any excessive running (here i know it should complete in 2 rounds so this is a reasonable timeout limit)
         for entry in results:
-            if entry["LATITUDE"]!="" and entry["LONGITUDE"]!="":
+            if entry["LATITUDE"]!="" and entry["LONGITUDE"]!="": #skip any entries with already completed geolocation
                 continue
 
             host = entry["IP/HOST"]
 
-            #change any domains given to their ip address so all rows start with ip addresses
+            #change any domains names to their ip address so we have ip address for geolocation
             if any(char.isalpha() for char in host):
                 try:
                     ip = socket.gethostbyname(host)
                 except Exception:
                     ip = "RESOLUTION_FAILED"
-                    noLoc-=1
+                    noLoc-=1 #we can never goelocate a host that wont resolve to an ip address so for the sake of counting, we just count it as completed
             else:
                 ip = host
             
@@ -75,29 +75,29 @@ for entry in data:
 
                 latitude = response.get("latitude")
                 longitude = response.get("longitude")
-                print(longitude," ",latitude)
+                #print(longitude," ",latitude)
 
-                if latitude is None or longitude is None:
+                if latitude is None or longitude is None: #this is the signal we have hit the limit on the api and should wait to keep on going
                     time.sleep(60)
                     continue
                 
 
                 entry["LATITUDE"] = latitude
                 entry["LONGITUDE"] = longitude
-                entry["DISTANCE"] = haversine(lawson_lat, lawson_long, latitude, longitude)
+                entry["DISTNACE"] = haversine(lawson_lat, lawson_long, latitude, longitude)
                 noLoc-=1
  
         rounds+=1
         
         
-results.append({
+results.append({ #putting in the self ping data
         "IP/HOST":"127.0.0.1",
         "PORT": "",
         "OPTIONS": "",
         "GB/S": "",
-        "CONTINENT": "North America",
-        "COUNTRY": "US",
-        "SITE": "West Lafayette",
+        "CONTINENT": "",
+        "COUNTRY": "",
+        "SITE": "",
         "PROVIDER": "",
         "LATITUDE": lawson_lat,
         "LONGITUDE": lawson_long,
