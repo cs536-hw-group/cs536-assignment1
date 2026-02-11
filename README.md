@@ -15,3 +15,5 @@ requests using the command: pip install requests
 
 Documentation:
 AI was utilized in the creation of this project. It was used to help debug and code in various files throughout the project.
+
+NOTE: the geolocator.py file has a later timestamp for the most recent push because Taylor McManus added some commenting to help teammates understanf code functions. No code itself was changed since the original submission two weeks ago prior to the due date.
