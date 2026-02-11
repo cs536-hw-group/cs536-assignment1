@@ -84,7 +84,7 @@ for entry in data:
 
                 entry["LATITUDE"] = latitude
                 entry["LONGITUDE"] = longitude
-                entry["DISTNACE"] = haversine(lawson_lat, lawson_long, latitude, longitude)
+                entry["DISTANCE"] = haversine(lawson_lat, lawson_long, latitude, longitude)
                 noLoc-=1
  
         rounds+=1
